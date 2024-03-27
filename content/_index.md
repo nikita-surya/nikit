@@ -246,7 +246,7 @@ sections:
         country: India
         # region: India
         # postcode: '94305'
-        # country_code: US
+        country_code: IND
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
