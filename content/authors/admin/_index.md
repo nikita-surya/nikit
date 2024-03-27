@@ -112,6 +112,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nikita Surya is working as an Applied Scientist 2 at Perfios Data Intelligence group. She works with a team of engineers and Applied Scientists to develop innovative solutions for data extraction and analysis using computer vision and deep learning. She has a good experience in developing production ready models. Her research interests lie in human understandable concept based explanation in the field of explainable artificial intelligence (XAI) .
 {style="text-align: justify;"}
