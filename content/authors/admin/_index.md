@@ -31,7 +31,7 @@ bio: My research interests include Computer Vision, eXplainable AI and NLP.
 interests:
   - Machine Learning
   - Computer Vision
-  - eXplainable AI
+  - eXplainable Artificial Intelligence
   - Natural Language Processing
 
 # Education to show in About widget
@@ -47,43 +47,43 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: Pytorch
-        description: ''
-        percent: 85
-        icon: devicon/pytorch
-        icon_pack: fas
-      - name: Tensorflow
-        description: ''
-        percent: 70
-        icon: devicon/tensorflow
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Aerial Yoga
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 90
+#         icon: python
+#         icon_pack: fab
+#       - name: Pytorch
+#         description: ''
+#         percent: 85
+#         icon: devicon/pytorch
+#         icon_pack: fas
+#       - name: Tensorflow
+#         description: ''
+#         percent: 70
+#         icon: devicon/tensorflow
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Aerial Yoga
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,21 +93,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0031320323008439
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nikita-surya
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nikita-surya/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
