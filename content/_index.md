@@ -243,9 +243,9 @@ sections:
       address:
         # street: 450 Serra Mall
         city: Hyderabad
+        country: India
         # region: India
         # postcode: '94305'
-        country: India
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
