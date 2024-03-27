@@ -59,12 +59,12 @@ skills:
         description: ''
         percent: 85
         icon: pytorch
-        icon_pack: fas
+        icon_pack: devicon
       - name: Tensorflow
         description: ''
         percent: 70
         icon: tensorflow
-        icon_pack: fas
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
