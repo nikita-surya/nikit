@@ -25,26 +25,25 @@ organizations:
     url: https://www.perfios.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision, eXplainable AI and NLP. 
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - XAI
+  - NLP
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Masters in Robotics Systems Engineering
+      institution: RWTH Aachen, Germany
+      year: 2020
+    - course: Bachelors in Electronics and Communication Engineering
+      institution: Shiv Nadar University, India
+      year: 2017
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
