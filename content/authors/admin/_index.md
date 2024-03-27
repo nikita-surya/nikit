@@ -29,10 +29,10 @@ bio: My research interests include Computer Vision, eXplainable AI and NLP.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Machine Learning
   - Computer Vision
-  - XAI
-  - NLP
+  - eXplainable AI
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
@@ -52,18 +52,18 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Pytorch
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 85
+        icon: pytorch
         icon_pack: fas
-      - name: SQL
+      - name: Tensorflow
         description: ''
-        percent: 40
-        icon: database
+        percent: 70
+        icon: tensorflow
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
