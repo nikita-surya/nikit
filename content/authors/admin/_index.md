@@ -58,18 +58,18 @@ skills:
       - name: Pytorch
         description: ''
         percent: 85
-        icon: pytorch
-        icon_pack: devicon
+        icon: devicon/pytorch
+        icon_pack: fas
       - name: Tensorflow
         description: ''
         percent: 70
-        icon: tensorflow
-        icon_pack: devicon
+        icon: devicon/tensorflow
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Aerial Yoga
         description: ''
         percent: 60
         icon: person-hiking
