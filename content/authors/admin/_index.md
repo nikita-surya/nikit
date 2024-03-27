@@ -112,5 +112,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Nikita Surya is working as an Applied Scientist 2 at Perfios Data Intelligence group. She works with a team of engineers and Applied Scientists to develop innovative solutions for data extraction and analysis using computer vision and deep learning. She has a good experience in developing production ready models. Her research interests lie in human understandable concept based explanation in the field of explainable artificial intelligence (XAI) .
+Nikita Surya is working as an Applied Scientist 2 at Perfios Data Intelligence group. She works with a team of engineers and applied scientists to develop innovative solutions for data extraction and analysis using computer vision and deep learning. She has a good experience in developing production ready models. Her research interests lie in human understandable concept based explanation in the field of explainable artificial intelligence (XAI) .
 {style="text-align: justify;"}
