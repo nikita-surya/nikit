@@ -2,17 +2,17 @@
 title: Introduction to Explainable AI
 
 event: Perfios Tech Talks
-# event_url: https://example.org
+event_url: https://example.org
 
-# location: Hugo Blox Builder HQ
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-abstract: Here, I along with Mr. Abhishek Tripati (Head AI) gave a tech-talk on why is explainability important and various approaches to achieve explanations for complex models. 
+summary: Here, I along with Mr. Abhishek Tripati (Head AI) gave a tech-talk on why is explainability important and various approaches to achieve explanations for complex models. 
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
